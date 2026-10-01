@@ -1,0 +1,6 @@
+{
+  "name": "Plot2Home AI",
+  "description": "AI-powered plot scanner and home visualization platform transforming empty land photos into architectural concepts, floor plans, and interactive 3D models.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
